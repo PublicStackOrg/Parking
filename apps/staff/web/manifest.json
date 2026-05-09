@@ -1,0 +1,11 @@
+{
+  "name": "Parking — Staff",
+  "short_name": "Parking Staff",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F9FB",
+  "theme_color": "#0B5FFF",
+  "description": "Staff dashboard for Parking.",
+  "orientation": "any",
+  "prefer_related_applications": false
+}

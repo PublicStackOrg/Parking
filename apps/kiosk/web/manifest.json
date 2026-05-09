@@ -1,0 +1,11 @@
+{
+  "name": "Parking — Kiosk",
+  "short_name": "Parking Kiosk",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#F8F9FB",
+  "theme_color": "#0B5FFF",
+  "description": "Kiosk terminal for Parking.",
+  "orientation": "any",
+  "prefer_related_applications": false
+}

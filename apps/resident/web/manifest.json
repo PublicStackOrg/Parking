@@ -1,0 +1,11 @@
+{
+  "name": "Parking",
+  "short_name": "Parking",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F9FB",
+  "theme_color": "#0B5FFF",
+  "description": "Open-source parking citations and meter management for cities.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
